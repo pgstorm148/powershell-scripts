@@ -1,0 +1,8 @@
+1. For LogAnalyzer file:
+Execute file as
+.\LogAnalyzer.ps1 -LogFilePath "C:\logs\app.log" -OutputFilePath "C:\logs\filtered_logs.txt" -StartDate "2024-11-17" -EndDate "2024-11-24" -Keyword "ERROR"
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
